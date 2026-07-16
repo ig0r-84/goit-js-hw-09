@@ -34,3 +34,59 @@ ol {
 }
 
 /*task-2*/
+.form-container {
+  border-radius: 8px;
+  padding: 164px;
+  width: 408px;
+  height: 296px;
+  margin: 0 auto;
+  background: #f6f6fe;
+}
+
+.feedback-form {
+  width: 360px;
+  margin: 0 auto;
+}
+
+.label {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
+
+.input {
+  border: 1px solid #808080;
+  border-radius: 4px;
+  width: 360px;
+  height: 40px;
+  margin-bottom: 8px;
+  margin-top: 8px;
+  padding-left: 8px;
+}
+
+.textarea {
+  padding-left: 8px;
+  padding-top: 8px;
+  border: 1px solid #808080;
+  border-radius: 4px;
+  width: 360px;
+  height: 80px;
+  margin-bottom: 16px;
+  margin-top: 8px;
+}
+
+.form-button {
+  border-radius: 8px;
+  border: none;
+  padding: 8px 16px;
+  width: 95px;
+  height: 40px;
+  background: #4e75ff;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.04em;
+  color: #fff;
+}
